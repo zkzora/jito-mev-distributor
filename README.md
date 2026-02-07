@@ -41,7 +41,7 @@ The project focuses on clarity, security, and operational efficiency, making it 
 Clone the repository and start the local development server:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/jito-mev-distributor.git
+git clone https://github.com/zkzora/jito-mev-distributor.git
 cd jito-mev-distributor
 npm install
 npm run dev
